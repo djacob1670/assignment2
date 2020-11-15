@@ -1,0 +1,32 @@
+*{
+	font-family: Palatino;
+	background-color: #F5FFFA;
+	color: #313638; 
+}
+
+body { 
+	margin: 20px 200px;
+	text-align: center;
+ }
+
+.container {
+	text-align: center;
+}
+
+.caption {
+	font-style: italic;
+}
+
+.paragraph {
+	padding-top: 15px;
+	padding-bottom: 30px;
+}
+
+.paragraphtwo {
+	padding-top: 15px;
+}
+
+ img {
+ 	width: 616px;
+ 	height: 372px;
+ }
